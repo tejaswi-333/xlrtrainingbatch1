@@ -1,5 +1,5 @@
 // Write java code to find the greatest among 3 variables
-public class Demo3 {
+public class Demo003 {
     public static void main(String[] args) {
         int a=11;
         int b=66;
