@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Area of the triangle
 public class demo013 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
