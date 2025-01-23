@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 class demo012{
     public static void main(String[] args) {
+        // Area of circle.
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter radius of the circle: ");
         double r = sc.nextDouble();
