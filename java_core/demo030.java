@@ -1,5 +1,5 @@
 import java.util.*;
-
+//hashset
 class ArrayListCode{
 	void arrayListMethod(){
  	ArrayList<Integer> araylist1 = new ArrayList<>();	    
