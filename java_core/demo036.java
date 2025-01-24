@@ -1,6 +1,6 @@
 import java.util.Scanner;
-
-public class Demo036 {
+//greatest among 3 numbers
+public class demo036 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter first number: ");
