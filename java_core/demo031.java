@@ -1,7 +1,7 @@
 import java.util.HashSet;
 class HashSetDemo1 {
 	void HSetMethod() {
-
+//hashset with numbers
 		HashSet hashSet = new HashSet();
 		hashSet.add(100);
 		hashSet.add("Teju");
