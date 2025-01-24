@@ -1,5 +1,6 @@
 import java.util.Iterator;
 import java.util.LinkedHashSet;
+//Linked HashSet Demo
 class LinkedHashSetDemo{
     void linkedHashsetMethod(){
         LinkedHashSet <Integer>lhs = new LinkedHashSet<>();
