@@ -2,11 +2,11 @@ import java.util.Arrays;
 //print friends list using array
 public class Test004 {
     public static void main(String[] args) {
-        String[] f1 = {"Mani","70320000","hyd"};
-        String[] f2 = {"Srujan","696900012","KPHB"};
-        String[] f3 = {"Sai","70320000","hyd"};
-        String[] f4 = {"Tarak","70320000","KPHB"};
-        String[] f5 = {"Rahul","696900012","hyd"};
+        String[] f1 = {"harsh","70320000","hyd"};
+        String[] f2 = {"piya","696900012","KPHB"};
+        String[] f3 = {"nandu","70320000","hyd"};
+        String[] f4 = {"thar","70320000","KPHB"};
+        String[] f5 = {"kav","696900012","hyd"};
 
         
         System.out.println("Friend 1: "+Arrays.toString(f1));
