@@ -39,7 +39,7 @@ class Client {
     }
 
 }
-public class ps004{
+public class PS004{
     public static void main(String[] args) {
         Client employee1 = new Client(7.50, 35);
         Client employee2 = new Client(8.20, 47);
