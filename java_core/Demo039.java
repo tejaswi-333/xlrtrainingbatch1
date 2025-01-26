@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class demo039 {
+public class Demo039 {
     //Write a java program to check character lowercase or uppercase or digit
     public static void main (String args[]){
         Scanner sc=new Scanner(System.in);
