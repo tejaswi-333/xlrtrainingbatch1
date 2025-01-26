@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class demo042 {
+public class Demo042 {
     //Write a java program to convert lowercase charcter into upper case.
      public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
