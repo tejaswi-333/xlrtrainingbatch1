@@ -1,4 +1,4 @@
-public class demo025 {
+public class Demo025 {
     public static void main(String[] args) {
         String[] f1 = {"Harsha ","Nandu ","Priya ","Kavita ","Tharuni "};
         String[] address= {"Hyd ", "KPHB ","KPHB ","Medak ","Medak "};
