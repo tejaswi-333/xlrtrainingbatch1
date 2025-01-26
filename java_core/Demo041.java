@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class demo041 {
+public class Demo041 {
     //Write a java program to check character is vowel or consonant.
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
