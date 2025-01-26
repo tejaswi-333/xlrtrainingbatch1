@@ -1,8 +1,8 @@
 import java.util.Scanner;
-public class test002 {
+public class Test002 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+//understanding while loop iteration 
         while(true){
         System.out.println("Enter do u want wishes or not: ");
         String input = sc.nextLine();
