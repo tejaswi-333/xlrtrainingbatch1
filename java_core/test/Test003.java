@@ -1,5 +1,5 @@
 
-
+// Grocery list
 class Grocery{
     int itemNo;
     String itemName;
@@ -26,7 +26,7 @@ class Grocery{
     }
 }
 
-public class test003 {
+public class Test003 {
     public static void main(String[] args) {
         Grocery g1 = new Grocery(1,"Apple",5,10);
         Grocery g2 = new Grocery(2,"Banana",6,20);
