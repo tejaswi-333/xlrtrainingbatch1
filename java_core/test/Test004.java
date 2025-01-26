@@ -1,6 +1,6 @@
 import java.util.Arrays;
-
-public class test004 {
+//print friends list using array
+public class Test004 {
     public static void main(String[] args) {
         String[] f1 = {"Mani","70320000","hyd"};
         String[] f2 = {"Srujan","696900012","KPHB"};
