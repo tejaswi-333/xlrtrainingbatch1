@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class demo028 {
+public class Demo028 {
 
     //fibonacci
     public static int fibonacci(int n) {
