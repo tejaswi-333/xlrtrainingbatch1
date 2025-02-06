@@ -1,5 +1,5 @@
 public class Demo061 {
-    //Write a java program to print 1 to 10 prime numbers.
+    //Write a java program to print 1 to 10 prime numbers
     public static void main(String[] args) {
         System.out.println("Prime numbers from 1 to 10:");
         
