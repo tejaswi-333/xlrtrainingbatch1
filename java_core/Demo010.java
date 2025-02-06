@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//accept and display details using two classes
 class Customer{
     String Cust_Name = "Teju";
     long Account_no = 123456;
