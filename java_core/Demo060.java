@@ -1,4 +1,5 @@
 class Fibonnaci {
+    //Fibonnaci without scanner
     void fib(int n) {
         System.out.println("Fibonacci Series for " + n + " terms: ");
         if (n <= 0) {
