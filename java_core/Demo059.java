@@ -1,4 +1,5 @@
 public class Demo059 {
+    //Write a java program to check number is prime or not
     static void isPrime(int x){
         if(x<1) {
             System.out.println("Enter a positive number");
