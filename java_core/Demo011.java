@@ -1,4 +1,5 @@
 class Parent{
+    //Child extends Parent
     public String Name = "Hitler";
     void parentDetails(){
         System.out.println("parents name is "+ Name);
