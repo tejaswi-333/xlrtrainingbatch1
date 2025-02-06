@@ -1,7 +1,7 @@
 public class Demo057 {
     static void sumOfFirstAndLast(int x){
         int last = x%10;
-
+//Write a java program to print sum of first and last digits of a number.
         int first=x;
         while(first>=10){
             first /= 10;
