@@ -1,5 +1,5 @@
 public class Demo062 {
-    //write a java program to print 1st,2nd and last element of an array.
+    //write a java program to print 1st,2nd and last element of an array
     public static void main(String[] args) {
         int[] arr= new int[5];
         arr[0]=44;
