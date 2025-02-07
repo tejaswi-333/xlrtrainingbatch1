@@ -1,5 +1,5 @@
 public class Demo067 {
-    //Write a java program to print even elements of an array.
+    //Write a java program to print even elements of an array
     public static void main(String[] args) {
             
         int[] arr = {10, 15, 22, 33, 40, 55, 60};
