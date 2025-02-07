@@ -1,5 +1,5 @@
 public class Demo070 {
-    //Write a java program to print prime numbers of an array.
+    //Write a java program to print prime numbers of an array
     public static boolean isPrime(int num) {
         if (num < 2) {
             return false;
