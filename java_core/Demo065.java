@@ -1,5 +1,5 @@
 public class Demo065 {
-    //Write a java program to print array elements
+    //Write a java program to print array elements.
     public static void main(String[] args) {
         int[] arr= new int[5];
         arr[0]=44;
