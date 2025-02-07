@@ -1,5 +1,5 @@
 public class Demo071 {
-    //write a java program to reverse array elements
+    //write a java program to reverse array elements.
     public static void reverseArray(int[] arr) {
         int start = 0, end = arr.length - 1;
         while (start < end) {
