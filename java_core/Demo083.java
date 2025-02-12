@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Demo083 {
-    //Write a java program to check 1st character is vowel or consonant in String.
+    //Write a java program to check 1st character is vowel or consonant in String
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
