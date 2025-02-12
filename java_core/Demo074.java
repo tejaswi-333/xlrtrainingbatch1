@@ -1,5 +1,5 @@
 
-//write a java program to sort an array without predefined methods. --- Accenture
+//write a java program to sort an array without predefined methods. 
 public class Demo074 {
     public static void main(String[] args) {
             int[] arr = {8, 3, 7, 4, 1, 9};
